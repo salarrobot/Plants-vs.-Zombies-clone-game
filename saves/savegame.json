@@ -1,0 +1,26 @@
+{
+  "high_score": 190,
+  "highest_level": 2,
+  "coins": 9389,
+  "upgrades": {
+    "sun_bonus": 4,
+    "pea_power": 3,
+    "plant_armor": 3,
+    "fast_mowers": 1
+  },
+  "achievements": {
+    "first_blood": true,
+    "green_thumb": true,
+    "sun_tycoon": false,
+    "boom": false,
+    "survivor": true,
+    "champion": true,
+    "centurion": false
+  },
+  "stats": {
+    "zombies_killed": 47,
+    "plants_placed": 28,
+    "sun_collected": 700,
+    "levels_cleared": 5
+  }
+}
