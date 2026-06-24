@@ -1,0 +1,5 @@
+# Botanical Brigade - dependencies
+#
+# Only pygame is required. All graphics and sound are generated procedurally
+# at runtime, so there are no asset files or extra packages to download.
+pygame>=2.0.0
